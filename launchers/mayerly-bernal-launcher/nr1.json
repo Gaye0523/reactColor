@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "mayerly-bernal-launcher",
+    "displayName": "MayerlyBernalLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "mayerly-bernal-nerdlet"
+}
